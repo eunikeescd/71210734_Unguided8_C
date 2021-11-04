@@ -1,0 +1,5 @@
+Ember yang pertama terisi adalah ember B
+
+karena saat air di loteng kanan atas penuh, airnya akan mengalir ke loteng sebelah kiri atas, namun ember A tidak dapat terisi karena salurannya tertutup
+Setelah air dari loteng kanan atas turun, air tersebut akan mengalir ke ember D dan C karena salurannya tertutup.
+Karena itu, air dari loteng kanan bawah akan memenuhi loteng kiri bawah dan mengalir memenuhi ember B.
